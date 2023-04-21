@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo "Google Cloud"
+echo "Python"
 exit 0
